@@ -1,0 +1,1 @@
+# Django_Querysets_and_Managers_Project
